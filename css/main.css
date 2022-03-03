@@ -1,7 +1,7 @@
 html {
   padding: 0;
   margin: 0;
-  background-color: #E0E3DA;
+  background-color: #fff;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color: #A593E0;
+  color: orange;
 }
 
 .wrapper {
@@ -24,7 +24,7 @@ h1 {
   color: #777;
   font-size: 73%;
   text-align: center;
-  border-top: 1px dotted #CCC;
+  border-top: 1px dotted #ccc;
   margin-top: 30px;
   padding: 20px;
 }
